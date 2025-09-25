@@ -6,7 +6,7 @@
 #### Hi, I'm KAY53N 👋
 
 - :briefcase: Low level architect<br/>
-- :pencil2: PHP/Java/Python/React/Android/Swift/Rust/Shell<br/>
+- :pencil2: PHP/Java/Python/React/Android/Swift/Rust<br/>
 
 </td>
 <td valign="top">
