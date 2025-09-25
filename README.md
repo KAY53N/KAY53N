@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋  
+<table  align="center" width="100%">
+<tr>
+<td valign="top">
 
-<!--
-**KAY53N/KAY53N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi，我是KAY53N
 
-Here are some ideas to get you started:
+- :briefcase: Low level architect<br/>
+- :pencil2: PHP/Java/Python/React/Android/Swift/Rust/Shell<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td valign="top">
+
+#### 📈 一点微小的工作
+
+![KAY53N GitHub stats](https://github-readme-stats.vercel.app/api?username=KAY53N&show_icons=true&count_private=true&theme=vue)
+  
+</td>
+</tr>
+
+
+</table>
